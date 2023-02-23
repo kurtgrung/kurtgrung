@@ -1,4 +1,4 @@
-### Hi there 👋 i am @kurtgrung
+### Hi i'm @kurtgrung
 
 - ● I’m interested in ... coding, photography, art, modular synths :) 
 - ▲ I’m currently building ... apps using native code and web langauges 
