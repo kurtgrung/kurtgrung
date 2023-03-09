@@ -1,9 +1,9 @@
-### Hi i'm @kurtgrung
+### Hi i'm @kurtgrung ●▲✚■ 
 
-- ● I’m interested in ... coding, photography, art, modular synths :) 
-- ▲ I’m currently building ... apps using native code and web langauges 
-- ✚ How to reach me: ... kurtgrung@gmail.com
-- ■ Available for paid work 
+- I’m interested in ... coding, photography, art, modular synths :) 
+- I’m currently building ... apps using native code and web langauges 
+- How to reach me: ... kurtgrung@gmail.com
+- Available for paid work 
 - https://kurtgrung.github.io
 - https://kurtgrung.com
 
