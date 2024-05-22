@@ -1,9 +1,11 @@
 # Hello :) 
 
-⚙️ Currently building ... Apps using native code and web languages. 
+⚙️ Currently building ... Apps using native code and web languages. <br>
+Day job, Working on D3 Visualisations using Vue/Nuxt 3 <br>
+Freetime, I am building a few Native iOS App's :) 
 
-🧪 Constantly researching & learning new skills. Going more in-depth 🕳️<br> 
-Web3, Blockchain Three Fiber/Tres, D3, Machine Learning. 
+🧪 Constantly researching & learning new skills <br> 
+Going more in-depth with: Web3, Blockchain Three Fiber+Tres, D3, Machine Learning.
 
 💬 Read more about my research on my <a target="_blank" href="http://kurtgrung.com/blog">blog</a>.
 
